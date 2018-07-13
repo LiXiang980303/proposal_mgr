@@ -1,0 +1,1 @@
+INSERT INTO app_proposal_user_refer (create_time, update_time, refer_name, refer_department, refer_phone, refer_job_title, refer_job_position, refer_post_code, refer_user, refer_reason, status, priority) VALUES ('2018-07-12 08:27:16', '2018-07-12 08:27:16', '推荐人', '单位', 13331231231, '高级工程师', '副科级', '100010', 'TESTUSER002', null, null, 0);
